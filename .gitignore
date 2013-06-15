@@ -1,0 +1,8 @@
+_Store
+public/gen
+node_modules
+#lib/
+*.swp
+.idea*
+config.json
+npm-debug.log
